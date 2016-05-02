@@ -1,0 +1,16 @@
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\bin\Debug\EspIoTHub.UWP.VoiceCommandService.dll
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\bin\Debug\EspIoTHub.UWP.VoiceCommandService.pdb
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\bin\Debug\EspIoTHub.UWP.VoiceCommandService.pri
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\EspIoTHub.UWP.VoiceCommandService.dll
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\EspIoTHub.UWP.VoiceCommandService.pdb
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\priconfig.xml
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\priconfig.xml.intermediate
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\layout.resfiles
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\layout.resfiles.intermediate
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\resources.resfiles
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\resources.resfiles.intermediate
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\pri.resfiles
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\pri.resfiles.intermediate
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\qualifiers.txt
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\qualifiers.txt.intermediate
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\obj\Debug\MultipleQualifiersPerDimensionFound.txt

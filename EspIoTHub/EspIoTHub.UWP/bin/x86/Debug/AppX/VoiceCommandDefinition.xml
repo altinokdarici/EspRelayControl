@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+
+	<CommandSet xml:lang="en-us" Name="UniversalAppCommandSet_en-us">
+		<AppName> Adventure Works </AppName>
+		<Example> Show trip to London </Example>
+
+		<Command Name="showConversation">
+			<Example>turn the lights off/on</Example>
+			<ListenFor>turn the lights {state}</ListenFor>
+			<Feedback>Your lights are {state} </Feedback>
+			<VoiceCommandService Target="EspIoTCommandService"/>
+		</Command>
+
+		<Command Name="showTripToDestination">
+			<Example> Show trip to London </Example>
+			<ListenFor RequireAppName="BeforeOrAfterPhrase"> show [my] trip to London</ListenFor>
+			<ListenFor RequireAppName="ExplicitlySpecified"> show [my] {builtin:AppName} trip to London</ListenFor>
+			<Feedback> Showing trip to </Feedback>
+			<Navigate />
+		</Command>
+
+
+		<PhraseList Label="state">
+			<Item>on</Item>
+			<Item>off</Item>
+		</PhraseList>
+
+	</CommandSet>
+
+</VoiceCommands>

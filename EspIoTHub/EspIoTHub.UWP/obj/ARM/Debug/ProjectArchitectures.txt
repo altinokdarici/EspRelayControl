@@ -1,0 +1,2 @@
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP.VoiceCommandService\EspIoTHub.UWP.VoiceCommandService.csproj;arm
+C:\Users\a-aldari\Source\Repos\EspServerRelayControl\EspIoTHub\EspIoTHub.UWP\EspIoTHub.UWP.csproj;arm

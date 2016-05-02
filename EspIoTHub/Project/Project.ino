@@ -3,11 +3,11 @@
 #include <PubSubClient.h>
 
 // Update these with values suitable for your network.
-const char* ssid = "{WIFI_SSID}";
-const char* password = "{WIFI_PASSWORD}";
+const char* ssid = "950xl_AD";
+const char* password = "12345678";
 const char* mqtt_server = "esprelay.azure-devices.net";
 const char* deviceId="1000";
-const char * pass="{{SharedAccessSignature}}";
+const char * pass="SharedAccessSignature sr=EspRelay.azure-devices.net%2fdevices%2f1000&sig=7LbpZinqsIC7P5ZqRZHr7ge0OMlG4twlw3TAXGqEerA%3d&se=1493760863";
 const char * userName="esprelay.azure-devices.net/1000";
 const char * subscriptionName="devices/1000/messages/devicebound/#";
 const int port=8883;
