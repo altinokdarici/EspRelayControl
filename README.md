@@ -32,3 +32,7 @@ RELAY_GND -> GND
 
 RELAY_INPUT -> ESP_GPIO_2 
 
+
+##Resources
+http://www.e-consystems.com/blog/windowsce/?p=1630
+
