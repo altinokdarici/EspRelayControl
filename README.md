@@ -1,8 +1,8 @@
-# EspServerRelayControl
+# ESP 8266 Relay Control
 
 This project is to control a simple 5v relay using ESP8266 over Azure IoT Hub (MQTT)
 
-##Hardware Requirments
+##Hardware Requirements
 
 __ESP 8266__ - 01 http://tr.aliexpress.com/item/New-Upgraded-version-ESP-01-ESP8266-serial-WIFI-wireless-module-wireless-transceiver/32633226881.html?spm=2114.010208.3.10.BBbReL&ws_ab_test=searchweb201556_10,searchweb201602_2_10034_507_10032_10020_10017_10005_10006_10021_10022_10009_10008_10018_10019,searchweb201603_1&btsid=afe8dd0f-ba8a-4286-8460-d4a110ea4851
 
