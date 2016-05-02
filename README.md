@@ -1,4 +1,4 @@
-# ESP 8266 Relay Control
+# ESP8266 Relay Control
 
 This project is to control a simple 5v relay using ESP8266 over Azure IoT Hub (MQTT)
 
